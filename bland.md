@@ -18,6 +18,7 @@ You let me be. Serious-ly.
 
 Let's add an image, shall we?
 ![alt text][1]
+This really is a boring document. 
 
 
   [1]: http://blogs.discovery.com/.a/6a00d8341bf67c53ef019b006dcf54970d-pi
